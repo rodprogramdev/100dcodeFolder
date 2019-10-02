@@ -1,0 +1,6 @@
+Day 8, 2019 
+Progress: Worked on the alignment of the section features,
+was able to fix and align the icons properly. I learned that you
+can use a different flex-direction for media querries to re-arrange the 
+nav ul elements into a column. Trying to find out how to arrange them into a center
+position when resized. 

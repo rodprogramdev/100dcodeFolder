@@ -1,0 +1,9 @@
+Day Aug12, 
+Today I started to do semantics with
+the technical documentation project
+in Free Code Camp. Working on 
+fulfilling the user stories set
+in the challenge. Planning to use 
+bootstrap in making the project and 
+apply the SCSS preprocessor to review 
+concept on how to use SASS.

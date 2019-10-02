@@ -1,0 +1,9 @@
+I Can't seem to figure out why a scroll bar is appearing in the footer when I resize it,
+Was able to center the text in the product section
+by applying float:none property. 
+I also watched youtube videos about APIs and trying to figure out on how to 
+use them. Also looked into a json crash course by traversy media.
+I did some editing in the computation of the student excel automatic gradesheet 
+I made. 
+https://www.youtube.com/watch?v=Rha1_St_9kw
+https://www.youtube.com/watch?v=wI1CWzNtE-M

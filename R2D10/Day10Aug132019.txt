@@ -1,0 +1,137 @@
+Aug132019
+Still working
+on the technical documentation.
+Still working on 
+the User stories and validated the 
+semantics. 
+Currently doing some reading about
+agile and scrum for product development.
+My sister whose a 
+programmer wanted me to learn 
+how to use them for the development 
+process. Went to 
+https://www.collab.net/services/
+training/agile_e-learning
+I also read some differences of a
+full-stack, front-end, and a back
+end developer. So that I would 
+be more familiarize with what track I should
+take and learn to master some of the 
+skills needed for each of those roles.
+
+
+Scrum is not
+Dr. Winston Royce
+Phases of development
+Theory
+	Analysis
+	Design
+	Code
+	Integration
+	Test
+	Deploy
+Rarely have complex knowledge in the beginning
+of the project.
+
+
+Sprint - sprint contains some combination
+of analysis design and planning for the future
+The scrum team works on a working potentially
+shippable product. Customers
+Normally have to see the wrong product before 
+identifying what they really need. 
+Sprints are usually 30 days long normally 
+they do it within two weeks.
+
+We will need people in testing
+design, coding all in one team. Cross
+functional team.
+
+Instead of doing every bit of design
+we continuously redesign what is necessary.
+
+Roles:
+Product owner, Scrum development team,
+Scrum master
+
+PO- Responsible for return of ROI
+Final arbiter of requirments questions
+Focused more on the what than on the how
+Single ringable work.Focused more on the what
+and the how.
+
+Scrum development team.
+Cross functional group
+attempts to build a potentially shippable product
+increment every sprint.
+Collaborates, scrum team is a learning team
+Self-organizing no job hierarchy
+control flows from person to person.
+
+Small group of people.
+
+SCRUM MASTEr
+Has no management authority
+Doesn't have a project manager role
+Facilitator
+Protects the team from distractions.
+
+ARTIFACTS
+Product backlogs 
+One dimensional customer centerd list
+list of everything we want to do
+Everyone one can add but product manager 
+will be the one to prioritize and 
+the scrum master wants to visualize then
+
+Scprint Backlogs
+What commited backlog
+Has an end date
+Not started
+in progress
+Completed
+
+MEETINGS
+Sprint planning
+Daily Scrum
+Sprint review meeting
+Sprint restropective
+
+Sprint planning meeting
+Daily scrum meeting
+Sprint review meeting
+Backlog refinement meeting
+
+
+
+Answers to questions:
+c. A framework with built-in reality checks
+for complex work in un
+
+C. When All task are complete
+
+D. Every sprints
+C Inform the product owner so he can work with 
+the CEO
+
+A. Build a thin slice of potentially shippable
+functionality and test the product
+
+The team owns them collectively
+
+B. Most important items at the top to least 
+important items
+
+Scrum team product backlog items
+
+
+Omit D. 
+
+No
+
+
+
+
+
+
+
