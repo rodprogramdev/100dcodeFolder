@@ -1,0 +1,33 @@
+August 17,2019
+Things to do:
+-Have plenty of work at school so doing some multitasking 
+by watching and listening to a tutorial 
+on how to make a tetris game with react js.
+
+-Still working on the technical documentation project and found out 
+that it was the simple ! that was causing me to fail the user story, 
+Finally able to complete the semantics and user stories
+requirements.
+
+-Still working on understanding how APIs work. 
+I'm also wondering about testing your
+website in different browsers. So far I've only used chrome and
+would like to be familiarize with the different browsers
+from where you can test your website. 
+
+-Doing some reading about the  
+concrete definition of the difference between a website and a 
+webapp.
+
+https://modeeffect.com/key-differences-between-website-web-app/
+
+-Trying to do some tweaks to one of my old project. Still
+need to design a logo and adjust some of the colors plus some 
+some parts such as the footer and the pop
+up window I would still need to adjust some of the layout.
+Wondering what does this security vulnerabilities mean in 
+my dependencies going to need to read more about them. 
+
+Planning to recreate this from scratch so that I could
+remember and retain how I made it using SASS and use of the BEM 
+methodology of naming classes. 

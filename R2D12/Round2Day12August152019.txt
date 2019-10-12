@@ -1,0 +1,8 @@
+August 15, 2019 Round2 Day 12
+
+Progress: I've been playing around with animation of the 
+technical documentation team. I also reviewed concepts of the 
+BEM model, hoping to understand how I could further apply it 
+to my projects. Looking into one of my previous project and
+trying to find out how I can improve some of the glitches in the 
+project. 

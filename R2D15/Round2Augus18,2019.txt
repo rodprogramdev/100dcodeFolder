@@ -1,0 +1,10 @@
+Progress:
+Today I added some of the content of the JavaScript Technical
+Documentation project I'm working on.
+
+I did some tweaks with the old project card properties. Increased
+the perspective from 20rem to 40rem to make the transition flip
+of the card look more natural. Still need to think of a more suitable 
+color with spiderman theme for the project colors. Comments would be 
+highly appreciated. 
+

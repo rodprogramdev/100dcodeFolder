@@ -1,0 +1,13 @@
+August 17,2019
+Have plenty of work
+at school so multitasking is by watching and listening to a tutorial 
+on how to make a tetris game with react js.
+Still working on the technical documentation project and found out that 
+it was the simple ! that was causing me to fail the user story, also working on
+understanding how APIs work. I'm also wondering about testing your
+website in different browsers. So far I've only used chrome and
+would like to be familiarize with the different browsers
+from where you can test your website. Also looking for a 
+concrete definition of the difference between a website and a 
+webapp.
+

@@ -1,0 +1,7 @@
+Aug16, 2019
+Progress:
+Reviewed how to use bootstrap 4, found issues with extra white space, 
+and found out that it's coming from the property top of my 
+nav class. I've been playing around with the navbar and experiencing a 
+lot of trial and error, trying to 
+figure out how to fix it on the side for the user stories layout.

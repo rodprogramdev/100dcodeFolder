@@ -1,0 +1,14 @@
+Day 11 Aug14, 2019
+Still working on completing the 
+tehcnical documentation
+but also did a side project for making
+CSS loaders. found a great free tutorial
+from traversy media in youtube. 
+Learned tha you can actually use "loremValue"
+to generate automatic lorem ipsum text.
+I also learned how to do a fade in effect using
+javaScript.
+Link to work
+CSSLoader1
+CSSloader2
+CSSloader3
